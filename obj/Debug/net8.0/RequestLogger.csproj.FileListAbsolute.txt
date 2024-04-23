@@ -58,3 +58,4 @@ C:\Users\sriva\Dropbox\PC\Documents\AdTech\AdTechProject\RequestLogger_App\Reque
 C:\Users\sriva\Dropbox\PC\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\RequestLogger.pdb
 C:\Users\sriva\Dropbox\PC\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\RequestLogger.genruntimeconfig.cache
 C:\Users\sriva\Dropbox\PC\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\ref\RequestLogger.dll
+C:\Users\sriva\Dropbox\PC\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\RequestLogger.sourcelink.json

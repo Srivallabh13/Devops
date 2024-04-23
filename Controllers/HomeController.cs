@@ -12,14 +12,20 @@ namespace RequestLogger.Controllers
         {
             _logger = logger;
         }
-        [HttpGet]
 
+
+        [HttpGet]
+        // Action method for the Home page
         public IActionResult Index()
         {
+            //getting the server time
             var currentTime = DateTime.Now;
-
             string greetingMessage = $"Hello There! Current Server Time: {currentTime} ";
 
+            // Writing to standard output
+            Console.WriteLine(greetingMessage);
+
+            // passing the server time to views for rendering.
             ViewBag.GreetingMessage = greetingMessage;
             return View();
         }
@@ -28,7 +34,6 @@ namespace RequestLogger.Controllers
         {
             return View();
         }
-        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
