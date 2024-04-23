@@ -327,9 +327,19 @@ $sudo nginx -s reload
 
 ## Screenshots
 
-- Here is the first look of the web application.
+- Here is the Web Application deployed on the Windows IIS Server.
 
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*xZGp10frsqvbv5SQfZKdcA.png)
+
+- Here is the Web Application deployed on the Linux Nginx Server using Load Balancer.
+  
+- Web Application is served using VM-1.
+
+![App Screenshot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*UE8XFGJ9IAJp2y16P-8YNQ.png)
+
+- Web Application is served using VM-2.
+
+![App Screenshot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*HPUmd1a4OANwmJ4Aqif5tg.png)
 
 ## Demo
 
