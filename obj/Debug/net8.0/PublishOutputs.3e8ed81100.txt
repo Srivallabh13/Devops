@@ -1,0 +1,7 @@
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\RequestLogger.exe
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\RequestLogger.dll
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\RequestLogger.deps.json
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\RequestLogger.runtimeconfig.json
+C:\Users\sriva\Documents\AdTech\AdTechProject\RequestLogger_App\RequestLogger\obj\Debug\net8.0\PubTmp\Out\RequestLogger.pdb
